@@ -1,0 +1,77 @@
+{
+    "information_bot":{
+        "name_bot": "Lc0_100",
+        "age_bot": "12 day 4 month",
+        "date_of_birthday": "Jun 4, 2022",
+        "server_run_bot": {
+            "run_by": "Computer",
+            "operating_system": "Windows 11 Pro 21H2 22000.978",
+            "name_pc": "Latitude 3420",
+            "capacity": {
+                "max": "256 GB (234 GB)",
+                "remaining": "127.4 GB"
+            },
+            "cpu": "11th Gen Intel(R) Core(TM) i5-1135G7 @2.40GHz 1.38 GHz",
+            "ram": "8 GB (7.7 GB)",
+            "gpu": "Intel(R) Iris(R) Xe Graphics"
+        },
+        "playing_platform": "lichess.org",
+        "bullet":{
+            "rating": {
+                "rating": "temporary",
+                "rating_deviation": 500.00,
+                "highest_rating": "Not playing enough games",
+                "lowest_rating": "Not playing enough games"
+            },
+            "chess_game": {
+                "total_chess_game": 3,
+                "ranked_chess_games": {
+                    "number": 0,
+                    "percent": "0%"
+                },
+                "tournament_style_game": {
+                    "number": 0,
+                    "percent": "0%"
+                },
+                "the_game_has_been_berserk": {
+                    "number": 0,
+                    "percent": null
+                },
+                "time_played": "9 minutes",
+                "winning_streak": {
+                    "longest_streak": null,
+                    "information_longest_streak": null,
+                    "current_streak": null,
+                    "information_current_streak": null
+                },
+                "lost_streak": {
+                    "longest_streak": "3 chess game",
+                    "information_longest_streak": "from Jun 6, 2022, 1:11 PM to Jun 6, 2022, 1:23 PM",
+                    "current_streak": "3 chess game",
+                    "information_current_streak": "from Jun 6, 2022, 1:11 PM to Jun 6, 2022, 1:23 PM"
+                },
+                "best_rated_victories": null,
+                "worst_rated_defeats": null
+            },
+            "player": {
+                "rating_average_opponent": 2402.00,
+                "win": {
+                    "number": 0,
+                    "percent": "0%"
+                },
+                "draw": {
+                    "number": 0,
+                    "percent": "0%" 
+                },
+                "lost": {
+                    "number": 3,
+                    "percent": "100%"
+                },
+                "disconnect": {
+                    "number": 0,
+                    "percent": "0%"
+                }
+            }
+        }
+    }
+}
