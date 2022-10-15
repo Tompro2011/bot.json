@@ -27,15 +27,15 @@
             },
             "chess_game": {
                 "total_chess_game": 3,
-                "ranked_chess_games": {
+                "rated_games": {
                     "number": 0,
                     "percent": "0%"
                 },
-                "tournament_style_game": {
+                "tournament_games": {
                     "number": 0,
                     "percent": "0%"
                 },
-                "the_game_has_been_berserk": {
+                "berserked_games": {
                     "number": 0,
                     "percent": null
                 },
@@ -54,12 +54,12 @@
                 }
             },
             "player": {
-                "rating_average_opponent": 2402.00,
-                "win": {
+                "average_opponent": 2402.00,
+                "victories": {
                     "number": 0,
                     "percent": "0%"
                 },
-                "draw": {
+                "draws": {
                     "number": 0,
                     "percent": "0%" 
                 },
@@ -67,7 +67,7 @@
                     "number": 3,
                     "percent": "100%"
                 },
-                "disconnect": {
+                "defeats": {
                     "number": 0,
                     "percent": "0%"
                 },
@@ -79,6 +79,73 @@
                 "max_time_spent_playing": {
                     "longest_streak": "9 minutes",
                     "from":"Jun 6, 2022, 1:11 PM to Jun 6, 2022, 1:23 PM",
+                    "current_streak": "0 minutes"
+                }
+            }
+        },
+        "blitz":{
+            "rating": {
+                "rating": "temporary",
+                "rating_deviation": 500.00,
+                "highest_rating": "Not playing enough games",
+                "lowest_rating": "Not playing enough games",
+                "best_rated_victories": null,
+                "worst_rated_defeats": null
+            },
+            "chess_game": {
+                "total_chess_game": 1,
+                "rated_games": {
+                    "number": 0,
+                    "percent": "0%"
+                },
+                "tournament_games": {
+                    "number": 0,
+                    "percent": "0%"
+                },
+                "berserked_games": {
+                    "number": 0,
+                    "percent": null
+                },
+                "time_played": "13 minutes",
+                "winning_streak": {
+                    "longest_streak": null,
+                    "information_longest_streak": null,
+                    "current_streak": null,
+                    "information_current_streak": null
+                },
+                "losing_streak": {
+                    "longest_streak": null,
+                    "information_longest_streak": null,
+                    "current_streak": null,
+                    "information_current_streak": null
+                }
+            },
+            "player": {
+                "average_opponent": 0.00,
+                "victories": {
+                    "number": 0,
+                    "percent": "0%"
+                },
+                "draws": {
+                    "number": 1,
+                    "percent": "100%" 
+                },
+                "defeats": {
+                    "number": 0,
+                    "percent": "0%"
+                },
+                "disconnect": {
+                    "number": 0,
+                    "percent": "0%"
+                },
+                "games_played_in_a_row": {
+                    "longest_streak":"1 chess game",
+                    "from": "Jun 6, 2022, 12:53 PM to Jun 6, 2022, 1:07 PM",
+                    "current_streak": null
+                },
+                "max_time_spent_playing": {
+                    "longest_streak": "13 minutes",
+                    "from":"Jun 6, 2022, 12:53 PM to Jun 6, 2022, 1:07 PM",
                     "current_streak": "0 minutes"
                 }
             }
