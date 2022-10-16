@@ -1,4 +1,21 @@
 {
+    "profile": {
+        "header": "All information is public and optional.",
+        "country_or_flag": "Vietnam",
+        "location": "Ha Noi",
+        "biography": "Toi la mot ban khac cua @the_best_move_Lc0",
+        "given_name": "Lc0",
+        "last_name": "100",
+        "fide_rating": null,
+        "uscf_rating": null,
+        "ecf_rating": null,
+        "rcf_rating": null,
+        "cfc_rating": null,
+        "dsb_rating": null,
+        "socaial_media_links": null,
+        "footer": "Twitter, Facebook, GitHub, Chess.com, ... One URL per line."
+    },
+
     "information_bot":{
         "name_bot": "Lc0_100",
         "age_bot": "12 day 4 month",
