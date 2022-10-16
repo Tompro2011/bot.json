@@ -149,6 +149,208 @@
                     "current_streak": "0 minutes"
                 }
             }
-        }
+        },
+        "rapid":{
+            "rating": {
+                "rating": "temporary",
+                "rating_deviation": 500.00,
+                "highest_rating": "Not playing enough games",
+                "lowest_rating": "Not playing enough games",
+                "best_rated_victories": null,
+                "worst_rated_defeats": null
+            },
+            "chess_game": {
+                "total_chess_game": 0,
+                "rated_games": {
+                    "number": 0,
+                    "percent": null
+                },
+                "tournament_games": {
+                    "number": 0,
+                    "percent": null
+                },
+                "berserked_games": {
+                    "number": 0,
+                    "percent": null
+                },
+                "time_played": null,
+                "winning_streak": {
+                    "longest_streak": null,
+                    "information_longest_streak": null,
+                    "current_streak": null,
+                    "information_current_streak": null
+                },
+                "losing_streak": {
+                    "longest_streak": null,
+                    "information_longest_streak": null,
+                    "current_streak": null,
+                    "information_current_streak": null
+                }
+            },
+            "player": {
+                "average_opponent": 0.00,
+                "victories": {
+                    "number": 0,
+                    "percent": null
+                },
+                "draws": {
+                    "number": 0,
+                    "percent": null 
+                },
+                "defeats": {
+                    "number": 0,
+                    "percent": null
+                },
+                "disconnect": {
+                    "number": 0,
+                    "percent": null
+                },
+                "games_played_in_a_row": {
+                    "longest_streak":null,
+                    "from": null,
+                    "current_streak": null
+                },
+                "max_time_spent_playing": {
+                    "longest_streak": null,
+                    "from": null,
+                    "current_streak": null
+                }
+            }
+        },
+        "classical":{
+            "rating": {
+                "rating": "temporary",
+                "rating_deviation": 500.00,
+                "highest_rating": "Not playing enough games",
+                "lowest_rating": "Not playing enough games",
+                "best_rated_victories": null,
+                "worst_rated_defeats": null
+            },
+            "chess_game": {
+                "total_chess_game": 0,
+                "rated_games": {
+                    "number": 0,
+                    "percent": null
+                },
+                "tournament_games": {
+                    "number": 0,
+                    "percent": null
+                },
+                "berserked_games": {
+                    "number": 0,
+                    "percent": null
+                },
+                "time_played": null,
+                "winning_streak": {
+                    "longest_streak": null,
+                    "information_longest_streak": null,
+                    "current_streak": null,
+                    "information_current_streak": null
+                },
+                "losing_streak": {
+                    "longest_streak": null,
+                    "information_longest_streak": null,
+                    "current_streak": null,
+                    "information_current_streak": null
+                }
+            },
+            "player": {
+                "average_opponent": 0.00,
+                "victories": {
+                    "number": 0,
+                    "percent": null
+                },
+                "draws": {
+                    "number": 0,
+                    "percent": null 
+                },
+                "defeats": {
+                    "number": 0,
+                    "percent": null
+                },
+                "disconnect": {
+                    "number": 0,
+                    "percent": null
+                },
+                "games_played_in_a_row": {
+                    "longest_streak":null,
+                    "from": null,
+                    "current_streak": null
+                },
+                "max_time_spent_playing": {
+                    "longest_streak": null,
+                    "from": null,
+                    "current_streak": null
+                }
+            }
+        },
+        "correspondence":{
+            "rating": {
+                "rating": "temporary",
+                "rating_deviation": 500.00,
+                "highest_rating": "Not playing enough games",
+                "lowest_rating": "Not playing enough games",
+                "best_rated_victories": null,
+                "worst_rated_defeats": null
+            },
+            "chess_game": {
+                "total_chess_game": 0,
+                "rated_games": {
+                    "number": 0,
+                    "percent": null
+                },
+                "tournament_games": {
+                    "number": 0,
+                    "percent": null
+                },
+                "berserked_games": {
+                    "number": 0,
+                    "percent": null
+                },
+                "time_played": null,
+                "winning_streak": {
+                    "longest_streak": null,
+                    "information_longest_streak": null,
+                    "current_streak": null,
+                    "information_current_streak": null
+                },
+                "losing_streak": {
+                    "longest_streak": null,
+                    "information_longest_streak": null,
+                    "current_streak": null,
+                    "information_current_streak": null
+                }
+            },
+            "player": {
+                "average_opponent": 0.00,
+                "victories": {
+                    "number": 0,
+                    "percent": null
+                },
+                "draws": {
+                    "number": 0,
+                    "percent": null 
+                },
+                "defeats": {
+                    "number": 0,
+                    "percent": null
+                },
+                "disconnect": {
+                    "number": 0,
+                    "percent": null
+                },
+                "games_played_in_a_row": {
+                    "longest_streak":null,
+                    "from": null,
+                    "current_streak": null
+                },
+                "max_time_spent_playing": {
+                    "longest_streak": null,
+                    "from": null,
+                    "current_streak": null
+                }
+            }
+        },
+        "other_rated": null 
     }
 }
